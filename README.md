@@ -1,6 +1,3 @@
-Absolutely! It's a good practice to update the README file to reflect your project's specific details. This helps others (and future you!) understand the purpose and functionality of your project. Here's how you can structure your README:
-
----
 
 # Tic-Tac-Toe
 
